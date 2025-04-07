@@ -1,0 +1,1 @@
+# Integration-of-Open5GS-and-Amarisoft-gnb-with-outdoor-Base-Station
